@@ -1,0 +1,38 @@
+
+2026-05-10 16:22:32,139 | INFO | app.services.data_store | Loading JSON data: C:\Users\Lucky\Documents\projet_vr\phase3_backend_api\tests\fixtures\data\anomalies.json
+2026-05-10 16:22:32,142 | INFO | httpx | HTTP Request: GET http://testserver/api/anomalies/top?limit=5 "HTTP/1.1 200 OK"
+2026-05-10 16:22:32,150 | INFO | app.services.data_store | Loading JSON data: C:\Users\Lucky\Documents\projet_vr\phase3_backend_api\tests\fixtures\data\anomalies.json
+2026-05-10 16:22:32,154 | INFO | httpx | HTTP Request: GET http://testserver/api/anomalies/summary "HTTP/1.1 200 OK"
+2026-05-10 16:22:32,164 | INFO | httpx | HTTP Request: GET http://testserver/api/sync/status "HTTP/1.1 200 OK"
+2026-05-10 16:22:32,174 | INFO | app.services.data_store | Loading JSON data: C:\Users\Lucky\Documents\projet_vr\phase3_backend_api\tests\fixtures\data\nodes_3d.json
+2026-05-10 16:22:32,179 | INFO | httpx | HTTP Request: GET http://testserver/api/nodes?risk_level=critique "HTTP/1.1 200 OK"
+2026-05-10 16:22:32,186 | INFO | app.services.data_store | Loading JSON data: C:\Users\Lucky\Documents\projet_vr\phase3_backend_api\tests\fixtures\data\nodes_3d.json
+2026-05-10 16:22:32,189 | INFO | httpx | HTTP Request: GET http://testserver/api/nodes/C2 "HTTP/1.1 200 OK"
+2026-05-10 16:22:32,198 | INFO | app.services.data_store | Loading JSON data: C:\Users\Lucky\Documents\projet_vr\phase3_backend_api\tests\fixtures\data\edges.json
+2026-05-10 16:22:32,201 | INFO | httpx | HTTP Request: GET http://testserver/api/edges?fraud_only=true "HTTP/1.1 200 OK"
+2026-05-10 16:22:40,506 | INFO | httpx | HTTP Request: GET http://testserver/health "HTTP/1.1 200 OK"
+2026-05-10 16:22:40,521 | INFO | httpx | HTTP Request: GET http://testserver/api/sync/status "HTTP/1.1 200 OK"
+2026-05-10 16:23:08,417 | INFO | app.services.data_store | Loading JSON data: C:\Users\Lucky\Documents\projet_vr\phase3_backend_api\tests\fixtures\data\anomalies.json
+2026-05-10 16:23:08,421 | INFO | httpx | HTTP Request: GET http://testserver/api/anomalies/top?limit=5 "HTTP/1.1 200 OK"
+2026-05-10 16:23:08,428 | INFO | app.services.data_store | Loading JSON data: C:\Users\Lucky\Documents\projet_vr\phase3_backend_api\tests\fixtures\data\anomalies.json
+2026-05-10 16:23:08,431 | INFO | httpx | HTTP Request: GET http://testserver/api/anomalies/summary "HTTP/1.1 200 OK"
+2026-05-10 16:23:08,442 | INFO | httpx | HTTP Request: GET http://testserver/api/sync/status "HTTP/1.1 200 OK"
+2026-05-10 16:23:08,451 | INFO | app.services.data_store | Loading JSON data: C:\Users\Lucky\Documents\projet_vr\phase3_backend_api\tests\fixtures\data\nodes_3d.json
+2026-05-10 16:23:08,454 | INFO | httpx | HTTP Request: GET http://testserver/api/nodes?risk_level=critique "HTTP/1.1 200 OK"
+2026-05-10 16:23:08,461 | INFO | app.services.data_store | Loading JSON data: C:\Users\Lucky\Documents\projet_vr\phase3_backend_api\tests\fixtures\data\nodes_3d.json
+2026-05-10 16:23:08,464 | INFO | httpx | HTTP Request: GET http://testserver/api/nodes/C2 "HTTP/1.1 200 OK"
+2026-05-10 16:23:08,472 | INFO | app.services.data_store | Loading JSON data: C:\Users\Lucky\Documents\projet_vr\phase3_backend_api\tests\fixtures\data\edges.json
+2026-05-10 16:23:08,474 | INFO | httpx | HTTP Request: GET http://testserver/api/edges?fraud_only=true "HTTP/1.1 200 OK"
+2026-05-10 16:23:10,198 | INFO | httpx | HTTP Request: GET http://testserver/api/sync/status "HTTP/1.1 200 OK"
+2026-05-10 16:23:59,115 | INFO | app.services.data_store | Loading JSON data: C:\Users\Lucky\Documents\projet_vr\phase3_backend_api\tests\fixtures\data\anomalies.json
+2026-05-10 16:23:59,120 | INFO | httpx | HTTP Request: GET http://testserver/api/anomalies/top?limit=5 "HTTP/1.1 200 OK"
+2026-05-10 16:23:59,131 | INFO | app.services.data_store | Loading JSON data: C:\Users\Lucky\Documents\projet_vr\phase3_backend_api\tests\fixtures\data\anomalies.json
+2026-05-10 16:23:59,134 | INFO | httpx | HTTP Request: GET http://testserver/api/anomalies/summary "HTTP/1.1 200 OK"
+2026-05-10 16:23:59,148 | INFO | httpx | HTTP Request: GET http://testserver/api/sync/status "HTTP/1.1 200 OK"
+2026-05-10 16:23:59,159 | INFO | app.services.data_store | Loading JSON data: C:\Users\Lucky\Documents\projet_vr\phase3_backend_api\tests\fixtures\data\nodes_3d.json
+2026-05-10 16:23:59,162 | INFO | httpx | HTTP Request: GET http://testserver/api/nodes?risk_level=critique "HTTP/1.1 200 OK"
+2026-05-10 16:23:59,169 | INFO | app.services.data_store | Loading JSON data: C:\Users\Lucky\Documents\projet_vr\phase3_backend_api\tests\fixtures\data\nodes_3d.json
+2026-05-10 16:23:59,173 | INFO | httpx | HTTP Request: GET http://testserver/api/nodes/C2 "HTTP/1.1 200 OK"
+2026-05-10 16:23:59,181 | INFO | app.services.data_store | Loading JSON data: C:\Users\Lucky\Documents\projet_vr\phase3_backend_api\tests\fixtures\data\edges.json
+2026-05-10 16:23:59,184 | INFO | httpx | HTTP Request: GET http://testserver/api/edges?fraud_only=true "HTTP/1.1 200 OK"
+2026-05-10 16:29:01,416 | INFO | app.services.data_store | Loading JSON data: C:\Users\Lucky\Documents\projet_vr\ph2-main\data\export\nodes_3d.json
